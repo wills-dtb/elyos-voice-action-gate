@@ -1,0 +1,3 @@
+{"event_id":"turn-1","conversation_id":"call-002","action":"confirm_booking","confidence":0.94,"latency_ms":600,"caller_confirmed":true}
+{"event_id":"turn-2","conversation_id":"call-002","action":"propose_booking","confidence":0.43,"latency_ms":190,"slot":"2026-11-03T10:00"}
+{"event_id":"turn-3","conversation_id":"call-002","action":"confirm_booking","confidence":0.98,"latency_ms":150,"caller_confirmed":true}
